@@ -1,0 +1,4 @@
+requests>=2.31
+nfl_data_py>=0.3.1
+feedparser>=6.0
+anthropic>=0.34
